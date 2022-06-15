@@ -1,0 +1,264 @@
+body {
+  overflow-x: hidden;
+}
+.menu {
+  margin-left: auto;
+}
+.logo {
+  margin: 10px 20px;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  font-family: "Montserrat"
+}
+#content {
+  color: #e6e6fa;
+  padding: 3% 5%;
+}
+/* @media (max-width:900px) {
+  .learn-more {
+    text-align: center;
+  }
+} */
+.container-fluid{
+
+}
+.text1 {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  margin: 4% 17%;
+}
+.one, .two, .three {
+  color: black;
+  /* border: 1px solid; */
+  /* text-align: center; */
+  font-weight: bolder;
+  font-family: "Montserrat";
+  margin: auto;
+  /* padding: 50px 10px; */
+}
+.people, .planet, .sport, .pp, .pp1, .pp2{
+  text-align: left;
+  font-weight: bolder;
+}
+.link, .link1, .link2 {
+  color: black;
+  text-align: left;
+
+  /* padding: 5px 70px; */
+  /* right: 40px; */
+  font-size: 1.2rem;
+  font-family: "Montserrat"
+}
+/* .thumbnail:hover {
+  display: inline;
+  z-index: 999;
+} */
+.four, .five {
+  color: black;
+  /* border: 1px solid; */
+  /* text-align: center; */
+
+  /* padding: 50px 10px; */
+}
+.fleece, .drying, .transitional, .insulation{
+  text-align: left;
+  font-weight: bolder;
+  font-family: "Montserrat";
+  /* padding: 5px 70px;
+  margin: 20px; */
+}
+.back, .restocted {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+.product-card-name {
+  font-weight: 600;
+  text-align: left;
+  font-size: 0.975rem;
+  line-height: 1.325rem;
+  color: black;
+  margin: 0.5rem 0;
+  font-family: "Montserrat"
+}
+.women {
+  text-decoration: none;
+}
+.shop3 {
+  font-weight: 600;
+}
+.button {
+  text-align: center;
+  margin: 3%;
+}
+.jump1 {
+  position: relative;
+}
+.Media-image {
+  overflow: hidden;
+}
+.tree, .snowboard{
+  position: absolute;
+  float: right;
+  font-family: "Montserrat";
+  font-weight: 600;
+  top: 50px;
+  right: 100px;
+}
+ .jump {
+   position: absolute;
+   color: #fff;
+   font-family: "Montserrat";
+   font-weight: 600;
+   top: 150px;
+   left: 100px;
+ }
+.head {
+  font-family: "Montserrat";
+}
+.shop-woman, .shop-man {
+  font-family: "Montserrat";
+  margin: 3% 2%;
+}
+#flag-section {
+  padding: 3% 5%;
+}
+.flag-img, .border-img {
+  text-align: center;
+  padding: 5% 3%;
+}
+.border-img {
+  position: relative;
+}
+.mystery {
+  position: absolute;
+  top: 250px;
+  left: 150px;
+  display: flex;
+  overflow: visible;
+  align-items: center;
+  flex-direction: column;
+}
+.open {
+  margin: 10% 20%;
+  font-family: "Montserrat";
+  font-weight: 600;
+}
+.mountain {
+  width: 100%;
+  margin-bottom: 5%;
+}
+.get {
+  color: white;
+  margin: 0% 13%;
+  text-align: center;
+  bottom: 170px;
+  font-family: "Montserrat";
+  font-weight: 600;
+}
+.chair-program {
+  color: white;
+  margin: 0% 15%;
+  text-align: center;
+  bottom: 250px;
+  font-family: "Montserrat";
+  font-weight: 600;
+}
+.learn-button1 {
+  color: black;
+  bottom: 100px;
+  }
+
+.message-share {
+  font-family: "Montserrat";
+  font-size: 1rem;
+}
+#grateful {
+  padding: 1% 2%;
+}
+.jake-image {
+  width: 100%;
+  height: 70%;
+
+}
+
+.thank, .honour {
+  font-family: "Montserrat";
+  font-weight: 600;
+  margin: 4% 10%;
+}
+.jake-link {
+  margin: 32%;
+}
+
+.news {
+  display: inline-block;
+  font-family: "Montserrat";
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 10%;
+  padding: 7% 0;
+}
+
+.store, .test-ride {
+  display: inline-block;
+  font-family: "Montserrat";
+  color: black;
+  margin: 7% 2%;
+  padding-left: 20%;
+}
+@media (max-width:900px)  {
+  .thank {
+    text-align: center;
+    font-size: 4.3rem;
+    color: red;
+  }
+}
+@media (max-width: 900px) {
+  .path-forward, .people, .pp, .planet, .pp1, .sport, .pp2, .restocked-back, .product-card-name, .email-sign  {
+    text-align: center;
+  }
+}
+@media (max-width: 900px) {
+  .us, .brt-snw, .socil-media, .user-meny {
+    text-align: center;
+    margin: 5% 0;
+  }
+}
+#info {
+  background-color: #008080;
+  padding: 5% 5%;
+
+}
+
+
+.us {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.bur {
+
+  float: left;
+}
+.brt-snw {
+  font-size: 0.8rem;
+  color: white;
+  margin: 0 7%;
+}
+.socil-media {
+  float: left;
+  margin: 0 3%;
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: white;
+}
+
+.user-meny {
+  float: right;
+  color: white;
+  font-size: 0.7rem;
+  margin: 0 0.5%;
+  text-decoration: none;
+}
